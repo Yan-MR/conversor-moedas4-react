@@ -1,0 +1,28 @@
+.App {
+  display: inline-block;
+  text-align: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+h2, label, h3, p {
+  color: #ffffff;
+}
+
+div {
+  margin: 1rem;
+}
+
+label {
+  margin-right: 1rem;
+}
+
+input, select, button {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+button {
+  cursor: pointer;
+}
